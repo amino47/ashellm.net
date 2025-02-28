@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rockorager/11ndieWeb#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^3.0.0",
     "netlify-plugin-inline-functions-env": "^1.0.9"
   },
   "dependencies": {
