@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("www/**/*.css");
   eleventyConfig.addPassthroughCopy({ "www/admin": "admin" });
   eleventyConfig.addPassthroughCopy("www/favicon.*");
-
+  eleventyConfig.addPassthroughCopy("admin");
   // Filters
   eleventyConfig.addFilter("where", function (arr, key, value) {
     return arr.filter(function (item) {
