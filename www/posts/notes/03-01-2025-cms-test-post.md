@@ -1,5 +1,5 @@
 ---
 layout: layouts/posts
-title: CMS test post
+title: DecapCMS
 ---
 Hello world! If you see this, then I set up my CMS correctly.
